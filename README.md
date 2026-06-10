@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Ajinkya00Magar=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Username=Ajinkya00Magar)](https://github.com/Ajinkya00Magar/github-readme-stats)
