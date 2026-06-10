@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0533,100:0d0d0d&height=200&section=header&text=AJ_Void&fontSize=80&fontColor=9d4edd&animation=fadeIn&fontAlignY=38&desc=Ajinkya%20Magar%20•%20BTech%20•%20Builder%20•%20Dreamer&descAlignY=60&descColor=c77dff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0533,100:0d0d0d&height=200&section=header&text=Ajinkya Magar&fontSize=80&fontColor=9d4edd&animation=fadeIn&fontAlignY=38&desc=Ajinkya%20Magar%20•%20BTech%20•%20Builder%20•%20Dreamer&descAlignY=60&descColor=c77dff"/>
 
 </div>
 
@@ -19,12 +19,12 @@
 ```python
 ajinkya = {
     "name"      : "Ajinkya Magar",
-    "alias"     : "AJ_Void",
+    "alias"     : "AJ",
     "college"   : "MIT Academy of Engineering, Alandi",
-    "year"      : "First Year BTech",
-    "location"  : "Maharashtra, India 🇮🇳",
-    "passion"   : ["AI/NLP", "Full Stack", "Building cool stuff"],
-    "currently" : "Turning caffeine into code ☕",
+    "year"      : "Second Year BTech",
+    "location"  : "Maharashtra, India",
+    "passion"   : ["AI", "Full Stack", "Building cool stuff"],
+    "currently" : "Turning time into code ☕",
     "vibe"      : "Final Boss Loading... ▓▓▓▓▓░░ 80%"
 }
 ```
@@ -45,7 +45,6 @@ ajinkya = {
 ![FastAPI](https://img.shields.io/badge/FastAPI-0d0d0d?style=for-the-badge&logo=fastapi&logoColor=9d4edd)
 ![Git](https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git&logoColor=9d4edd)
 ![VS Code](https://img.shields.io/badge/VSCode-0d0d0d?style=for-the-badge&logo=visual-studio-code&logoColor=9d4edd)
-![Power BI](https://img.shields.io/badge/PowerBI-0d0d0d?style=for-the-badge&logo=powerbi&logoColor=9d4edd)
 ![Linux](https://img.shields.io/badge/Linux-0d0d0d?style=for-the-badge&logo=linux&logoColor=9d4edd)
 
 </div>
@@ -59,8 +58,6 @@ ajinkya = {
 | Project | Description | Stack |
 |--------|-------------|-------|
 | 🧠 **Sentiment Analyzer** | NLP pipeline with BERT + Gemini AI for real-time sentiment detection | `FastAPI` `BERT` `Gemini` `Python` |
-| 📊 **Data Viz Dashboard** | Power BI-style analytics dashboard from Superstore dataset | `Python` `Pandas` `Matplotlib` |
-| 💡 **Seat Belt Alarm System** | Hardware safety system project with logic design | `Digital Electronics` `C` |
 | 🌐 **Personal Website** | Custom portfolio site built as a gift | `HTML` `CSS` `JS` |
 
 </div>
@@ -121,12 +118,6 @@ ajinkya = {
 
 <img src="https://komarev.com/ghpvc/?username=Ajinkya00Magar&label=PROFILE+VIEWS&color=9d4edd&style=for-the-badge"/>
 
-```
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-        AJ_Void — The Final Boss
-     "Code. Commit. Conquer. Repeat."
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0533,100:0d0d0d&height=100&section=footer"/>
 
