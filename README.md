@@ -1,7 +1,7 @@
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0533,100:0d0d0d&height=320&section=header&text=Ajinkya%20Magar&fontSize=70&fontColor=9d4edd&animation=twinkling&fontAlignY=40&desc=AI%20%7C%20Full%20Stack%20%7C%20DSA%20%7C%20Building%20Cool%20Stuff&descAlignY=58&descColor=c77dff&descSize=22&stroke=9d4edd&strokeWidth=1"/>
-
+---
 </div>
 
 <div align="center">
