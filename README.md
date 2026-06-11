@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0533,100:0d0d0d&height=200&section=header&text=Ajinkya Magar&fontSize=80&fontColor=9d4edd&animation=fadeIn&fontAlignY=38&desc=Ajinkya%20Magar%20•%20BTech%20•%20Builder%20•%20Dreamer&descAlignY=60&descColor=c77dff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0533,100:0d0d0d&height=200&section=header&text=Ajinkya%20Magar&fontSize=65&fontColor=9d4edd&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Full%20Stack%20%7C%20DSA%20%7C%20Building%20Cool%20Stuff&descAlignY=60&descColor=c77dff"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&lines=First+Year+BTech+%40+MIT+AOE;Building+things+that+matter+%F0%9F%9A%80;NLP+%7C+AI+%7C+Full+Stack+Dev;Debugging+life%2C+one+commit+at+a+time)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=9D4EDD&center=true&vCenter=true&width=650&lines=Second+Year+BTech+%40+MIT+AOE+%F0%9F%8F%AB;Passionate+about+AI+%26+Machine+Learning+%F0%9F%A7%A0;Full+Stack+Dev+in+the+making+%F0%9F%9A%80;DSA+Grinder+%7C+Problem+Solver+%F0%9F%94%A5;Building+cool+stuff+that+matters+%E2%9C%A8;Debugging+life%2C+one+commit+at+a+time+%F0%9F%92%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -45,6 +45,7 @@ ajinkya = {
 ![FastAPI](https://img.shields.io/badge/FastAPI-0d0d0d?style=for-the-badge&logo=fastapi&logoColor=9d4edd)
 ![Git](https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git&logoColor=9d4edd)
 ![VS Code](https://img.shields.io/badge/VSCode-0d0d0d?style=for-the-badge&logo=visual-studio-code&logoColor=9d4edd)
+![Power BI](https://img.shields.io/badge/PowerBI-0d0d0d?style=for-the-badge&logo=powerbi&logoColor=9d4edd)
 ![Linux](https://img.shields.io/badge/Linux-0d0d0d?style=for-the-badge&logo=linux&logoColor=9d4edd)
 
 </div>
@@ -58,6 +59,8 @@ ajinkya = {
 | Project | Description | Stack |
 |--------|-------------|-------|
 | 🧠 **Sentiment Analyzer** | NLP pipeline with BERT + Gemini AI for real-time sentiment detection | `FastAPI` `BERT` `Gemini` `Python` |
+| 📊 **Data Viz Dashboard** | Power BI-style analytics dashboard from Superstore dataset | `Python` `Pandas` `Matplotlib` |
+| 💡 **Seat Belt Alarm System** | Hardware safety system project with logic design | `Digital Electronics` `C` |
 | 🌐 **Personal Website** | Custom portfolio site built as a gift | `HTML` `CSS` `JS` |
 
 </div>
@@ -76,7 +79,7 @@ ajinkya = {
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ajinkya00Magar&theme=midnight-purple&hide_border=true&background=0d0d0d&ring=9d4edd&fire=c77dff&currStreakLabel=9d4edd"/>
+<img src="https://streak-stats.demolab.com?user=Ajinkya00Magar&theme=midnight-purple&hide_border=true&background=0d0d0d&ring=9d4edd&fire=c77dff&currStreakLabel=9d4edd"/>
 
 </div>
 
@@ -86,17 +89,17 @@ ajinkya = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Ajinkya00Magar&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Ajinkya00Magar&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=4"/>
 
 </div>
 
 ---
 
-### 🐍 Contribution Snake
+### 📈 Activity Graph
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Ajinkya00Magar/Ajinkya00Magar/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ajinkya00Magar&bg_color=0d0d0d&color=9d4edd&line=9d4edd&point=c77dff&area=true&hide_border=true"/>
 
 </div>
 
@@ -106,9 +109,9 @@ ajinkya = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=9d4edd)](https://linkedin.com/in/ajinkya-magar)
-[![Instagram](https://img.shields.io/badge/Instagram-0d0d0d?style=for-the-badge&logo=instagram&logoColor=9d4edd)](https://instagram.com)
-[![Gmail](https://img.shields.io/badge/Gmail-0d0d0d?style=for-the-badge&logo=gmail&logoColor=9d4edd)](mailto:youremail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=9d4edd)](https://www.linkedin.com/in/ajinkya-magar-6788b0251/)
+[![Instagram](https://img.shields.io/badge/Instagram-0d0d0d?style=for-the-badge&logo=instagram&logoColor=9d4edd)](https://www.instagram.com/ajinkya00magar/)
+[![Gmail](https://img.shields.io/badge/Gmail-0d0d0d?style=for-the-badge&logo=gmail&logoColor=9d4edd)](mailto:ajinkyamagarphys@gmail.com)
 
 </div>
 
@@ -118,6 +121,13 @@ ajinkya = {
 
 <img src="https://komarev.com/ghpvc/?username=Ajinkya00Magar&label=PROFILE+VIEWS&color=9d4edd&style=for-the-badge"/>
 
+```
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+          AJ — The Final Boss
+     "Code. Commit. Conquer. Repeat."
+          [ loading... ▓▓▓▓▓░░░ ]
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0533,100:0d0d0d&height=100&section=footer"/>
 
