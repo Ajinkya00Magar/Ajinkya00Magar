@@ -1,12 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0533,100:0d0d0d&height=200&section=header&text=Ajinkya%20Magar&fontSize=65&fontColor=9d4edd&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Full%20Stack%20%7C%20DSA%20%7C%20Building%20Cool%20Stuff&descAlignY=60&descColor=c77dff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0533,100:0d0d0d&height=280&section=header&text=Ajinkya%20Magar&fontSize=65&fontColor=9d4edd&animation=fadeIn&fontAlignY=35&desc=AI%20%7C%20Full%20Stack%20%7C%20DSA%20%7C%20Building%20Cool%20Stuff&descAlignY=55&descColor=c77dff&descSize=20"/>
 
-</div>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=9D4EDD&center=true&vCenter=true&width=650&lines=Second+Year+BTech+%40+MIT+AOE+%F0%9F%8F%AB;Passionate+about+AI+%26+Machine+Learning+%F0%9F%A7%A0;Full+Stack+Dev+in+the+making+%F0%9F%9A%80;DSA+Grinder+%7C+Problem+Solver+%F0%9F%94%A5;Building+cool+stuff+that+matters+%E2%9C%A8;Debugging+life%2C+one+commit+at+a+time+%F0%9F%92%80)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=18&pause=1000&color=9D4EDD&center=true&vCenter=true&width=650&height=55&lines=Second+Year+BTech+%40+MIT+AOE+%F0%9F%8F%AB;Passionate+about+AI+%26+Machine+Learning+%F0%9F%A7%A0;Full+Stack+Dev+in+the+making+%F0%9F%9A%80;DSA+Grinder+%7C+Problem+Solver+%F0%9F%94%A5;Building+cool+stuff+that+matters+%E2%9C%A8;Debugging+life%2C+one+commit+at+a+time+%F0%9F%92%80&background=0d0d0d" style="margin-top:-18px;display:block;"/>
 
 </div>
 
