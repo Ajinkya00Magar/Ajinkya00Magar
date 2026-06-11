@@ -122,7 +122,7 @@ ajinkya = {
 
 ```
                                             ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-                                                       AJ — The Final Boss
+                                                   AJ — The Final Boss
                                                 "Code. Commit. Conquer. Repeat."
                                                      [ loading... ▓▓▓▓▓░░░ ]
                                             ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
