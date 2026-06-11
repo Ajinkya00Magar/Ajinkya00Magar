@@ -121,11 +121,11 @@ ajinkya = {
 <img src="https://komarev.com/ghpvc/?username=Ajinkya00Magar&label=PROFILE+VIEWS&color=9d4edd&style=for-the-badge"/>
 
 ```
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-          AJ — The Final Boss
-     "Code. Commit. Conquer. Repeat."
-          [ loading... ▓▓▓▓▓░░░ ]
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+                                            ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+                                                       AJ — The Final Boss
+                                                "Code. Commit. Conquer. Repeat."
+                                                     [ loading... ▓▓▓▓▓░░░ ]
+                                            ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0533,100:0d0d0d&height=100&section=footer"/>
