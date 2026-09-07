@@ -1,356 +1,148 @@
-<div align="center">
+<!--
+This profile is intentionally a contact sheet, not a dashboard.
+No generated statistics. No streaks. No rankings. A person is not telemetry.
+-->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,30:10051a,60:24103d,100:050505&height=300&section=header&text=AJINKYA%20MAGAR&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=AI%20%7C%20SOFTWARE%20%7C%20SYSTEMS&descAlignY=59&descColor=c77dff&descSize=21&stroke=9d4edd&strokeWidth=1"/>
+<p align="center">
+  <img src="./assets/contact-sheet.svg" width="100%" alt="Ajinkya Magar — a profile in two exposures: repair and responsibility" />
+</p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=17&pause=1100&color=9D4EDD&center=true&vCenter=true&width=900&height=50&lines=COMPUTER+ENGINEERING+%40+MIT+AOE;AI+%2F+ML+%2F+NLP;BACKEND+%2F+FULL+STACK+%2F+SYSTEMS;BUILDING+%7C+BREAKING+%7C+UNDERSTANDING;TURNING+IDEAS+INTO+WORKING+SYSTEMS"/>
+<p align="center">
+  <samp>COMPUTER ENGINEERING · MAHARASHTRA, INDIA · BUILDING SYSTEMS THAT LISTEN BEFORE THEY ACT</samp>
+</p>
+
+## Two exposures. One direction.
+
+Most profiles begin with a toolbox. Mine begins with a tension:
+
+> **Look inward long enough to repair what is broken. Look outward far enough to act when you can help.**
+
+I keep those as coordinates—not because I have mastered either of them, but because they point toward the person and engineer I am trying to become.
 
 <br>
 
-<a href="https://github.com/Ajinkya00Magar">
-<img src="https://img.shields.io/badge/GITHUB-AJINKYA00MAGAR-9d4edd?style=for-the-badge&logo=github&logoColor=white&labelColor=050505"/>
-</a>
+<p align="center">
+  <img src="./assets/shoya-ishida.jpg" width="420" alt="Shoya Ishida looking upward beneath an open blue sky" />
+</p>
+<p align="center"><samp>FRAME 01 / A SKY THAT FINALLY HAS PEOPLE IN IT / REPAIR</samp></p>
 
-<a href="https://www.linkedin.com/in/ajinkya-magar-6788b0251/">
-<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-9d4edd?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050505"/>
-</a>
+### `01 / REPAIR`
 
-<a href="mailto:ajinkyamagarphys@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-REACH_ME-9d4edd?style=for-the-badge&logo=gmail&logoColor=white&labelColor=050505"/>
-</a>
+**Shoya Ishida** stays with me not because he is flawless, but because he is unfinished. His story treats becoming better as active work: listen, return, face what is difficult, and learn how to meet people instead of disappearing from them.
 
-</div>
+That translates into how I want to engineer:
+
+- understand before automating;
+- ask before assuming;
+- treat failure as information, not embarrassment;
+- rebuild without pretending the first version was enough.
+
+I am interested in intelligence, but even more interested in whether that intelligence can pay attention.
 
 ---
 
-<div align="center">
+## The person between the frames
 
-<img
-src="./assets/spiderman.png"
-width="100%"
-alt=""
-/>
+I am **Ajinkya Magar**—AJ to people who know me—a Computer Engineering student at **MIT Academy of Engineering, Alandi**.
 
-</div>
+I work where **AI, backend systems, computer networks, and useful products** overlap. I learn by making an idea real, finding the place where reality disagrees with it, and staying for the explanation.
 
-<div align="center">
+I do not want to merely *know technologies*. I want to know what happens after the demo: when the network is isolated, the command is ambiguous, the user is overwhelmed, the data is untidy, or the system has to earn trust.
 
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║        I DON'T WANT TO JUST USE TECHNOLOGY.                 ║
-║        I WANT TO UNDERSTAND WHAT'S UNDERNEATH IT.           ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-</div>
-01 // WHOAMI
-<div align="center">
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│   NAME          :  AJINKYA MAGAR                            │
-│   ALIAS         :  AJ                                       │
-│   ROLE          :  COMPUTER ENGINEERING STUDENT             │
-│   COLLEGE       :  MIT ACADEMY OF ENGINEERING, ALANDI      │
-│   LOCATION      :  MAHARASHTRA, INDIA                      │
-│                                                              │
-│   PRIMARY       :  BUILD                                    │
-│   SECONDARY     :  BREAK                                    │
-│   RECOVERY      :  UNDERSTAND                               │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-</div>
+> The polished screen is the last layer. I am usually curious about the layers that made it possible.
 
-I'm a Computer Engineering student exploring the intersection of Artificial Intelligence, software engineering, backend development, computer networks, systems, and intelligent applications.
+---
 
-I learn by building.
+## Questions with repositories attached
 
-I like taking an idea, making it real, finding where it breaks, understanding why it broke, and rebuilding it better.
+<sub>Not a trophy shelf. These are questions I have tried to answer in code.</sub>
 
-02 // CURRENT STATE
-<div align="center">
-AREA	STATE	DIRECTION
-🤖 AI / ML	ACTIVE	Intelligent applications
-🧠 NLP / LLM	ACTIVE	AI-powered workflows
-⚙️ Backend	ACTIVE	APIs & architecture
-🖥️ Full Stack	BUILDING	End-to-end products
-🌐 Networks	EXPLORING	Predictive systems
-🧩 DSA	GRINDING	Problem solving
-🐧 Linux	EXPLORING	Systems & tooling
-</div>
-03 // PROJECT CONSTELLATION
-<div align="center">
-                              ┌─────────────────────┐
-                              │      AJINKYA        │
-                              │       MAGAR         │
-                              └──────────┬──────────┘
-                                         │
-               ┌─────────────────────────┼─────────────────────────┐
-               │                         │                         │
-               ▼                         ▼                         ▼
-        ┌─────────────┐          ┌─────────────┐          ┌─────────────┐
-        │     AI      │          │   SYSTEMS   │          │  SOFTWARE   │
-        └──────┬──────┘          └──────┬──────┘          └──────┬──────┘
-               │                         │                         │
-        ┌──────┴──────┐             ┌────┴────┐           ┌──────┼──────┐
-        │             │             │         │           │      │      │
-        ▼             ▼             ▼         ▼           ▼      ▼      ▼
-     SYNAPSE      MINDGUARD       VIKRAM    FLOWMAP    CAMPUS   ARIA  SHORTLYST
-</div>
-04 // SYNAPSE
-AI ORCHESTRATION / EXECUTION
+### `01` Can a computer listen without asking the human to shrink their language?
 
-Structured actions. Tasks. Execution plans.
+**[Synapse](https://github.com/Ajinkya00Magar/Synapse)** gives Windows hands-free voice control through English, Hindi, and Marathi. The interesting part is not the command—it is turning natural intent into a dependable action.
 
-Synapse explores how an AI system can translate intent into structured actions, tasks, and executable plans.
+### `02` Can a network reveal tomorrow's failure while there is still time to respond?
 
-<div align="center">
-                         HUMAN INTENT
-                              │
-                              ▼
-                    ┌──────────────────┐
-                    │     SYNAPSE      │
-                    └────────┬─────────┘
-                             │
-                             ▼
-                      ACTION PLANNING
-                             │
-                             ▼
-                       TASK CREATION
-                             │
-                             ▼
-                      EXECUTION PLAN
-                             │
-                             ▼
-                         EXECUTOR
-                             │
-                             ▼
-                      REAL-WORLD ACTION
-</div>
+**[VIKRAM](https://github.com/Ajinkya00Magar/VIKRAM)** is an air-gapped predictive copilot for secure MPLS and SD-WAN operations: local telemetry, anomaly detection, forecasting, simulation, and explanation without depending on the outside world.
 
-Python Pydantic AI Backend Architecture
+### `03` Can learning feel like a place you can navigate?
 
-05 // VIKRAM
-NETWORK INTELLIGENCE
+**[FlowMap](https://github.com/Ajinkya00Magar/flowmap)** turns study paths, milestones, habits, and progress into an interactive learning map instead of another disconnected list of tasks.
 
-Air-Gapped Predictive Copilot for Secure MPLS Operations
+### `04` What would campus communication look like if context were built into the system?
 
-A systems-oriented project exploring intelligent assistance for secure and predictive network operations.
+**[Campus Buddy](https://github.com/Ajinkya00Magar/Campus_Buddy)** brings real-time conversation, channels, notices, and role-aware access into one college space—organized around the community it actually serves.
 
-<div align="center">
-NETWORK
-   │
-   ├── TELEMETRY
-   ├── EVENTS
-   ├── FAILURES
-   └── PATTERNS
-          │
-          ▼
-     ┌────────────┐
-     │   VIKRAM   │
-     └─────┬──────┘
-           │
-           ▼
-       PREDICTION
-           │
-           ▼
-         INSIGHT
-           │
-           ▼
-       ASSISTANCE
-</div>
+### `05` Can software respond more carefully when words carry weight?
 
-Computer Networks AI Predictive Systems Secure Infrastructure
+**[MindGuard](https://github.com/Ajinkya00Magar/mental-health-chatbot)** explores emotion detection, risk-aware responses, and mood trends as an emotional-support prototype—not as a replacement for professional care.
 
-06 // BUILDS
-<details> <summary><b>🎓 CAMPUS BUDDY</b></summary> <br>
+<p align="right"><a href="https://github.com/Ajinkya00Magar?tab=repositories">the rest of the contact sheet →</a></p>
 
-Student-focused software exploring practical AI and campus applications.
+---
 
-TypeScript · AI · Web Development
+## Working materials, not identity labels
 
-</details> <br> <details> <summary><b>🗺️ FLOWMAP</b></summary> <br>
+**Python** when the problem needs intelligence, language, data, or a fast route from thought to experiment.
 
-A TypeScript project exploring flow-oriented visualization.
+**TypeScript** when the system needs a dependable shape from interface to backend.
 
-TypeScript · Visualization · Web
+**C and C++** when abstraction should move aside and let me see the machine.
 
-</details> <br> <details> <summary><b>🛡️ MINDGUARD</b></summary> <br>
+**Linux, Git, and computer networks** when I need to understand where software actually lives, moves, fails, and recovers.
 
-Conversational AI / chatbot experimentation.
+The tool changes. The loop does not:
 
-Python · AI · NLP
+<p align="center">
+  <samp>NOTICE → MODEL → BUILD → BREAK → UNDERSTAND → REBUILD → SHARE</samp>
+</p>
 
-</details> <br> <details> <summary><b>⚡ ARIA</b></summary> <br>
+<br>
 
-TypeScript-based software experimentation.
+<p align="center">
+  <img src="./assets/spider-man.jpg" width="420" alt="Spider-Man holding a camera against a collage of comic panels" />
+</p>
+<p align="center"><samp>FRAME 02 / CAMERA OUT / RESPONSIBILITY</samp></p>
 
-TypeScript
+### `02 / RESPONSIBILITY`
 
-</details> <br> <details> <summary><b>🔗 SHORTLYST</b></summary> <br>
+**Peter Parker, specifically**—not the spectacle of Spider-Man. The student carrying ordinary worries, a camera, too many responsibilities, and still making the next useful choice.
 
-Web application experimentation.
+That is the part I recognize: ability is not an identity by itself. What matters is where you point it. In engineering, responsibility means a feature is unfinished if it is clever but unusable, an AI system is unfinished if it cannot explain its limits, and a failure you can see becomes your next honest task.
 
-JavaScript
+I want to build ambitious systems without losing sight of the person waiting on the other side of them.
 
-</details> <br> <details> <summary><b>🧪 SENTIMENT ANALYSIS MODEL</b></summary> <br>
+---
 
-NLP and sentiment classification experimentation.
+## Rules I keep in pencil
 
-Python · NLP · Machine Learning
+1. **Listen long enough for the real problem to replace the obvious one.**
+2. **Make hidden systems legible.** Confusion grows in layers nobody can inspect.
+3. **Break prototypes early and promises rarely.**
+4. **Prefer useful over loud, reliable over impressive, and clear over clever.**
+5. **Leave room to revise yourself.** Better code and better people both require it.
 
-</details>
-07 // TOOLBOX
-<div align="center"> <img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts,html,css,fastapi,nodejs,git,github,linux,vscode&theme=dark"/> </div> <br> <div align="center">
-LANGUAGES
-────────────────────────────────────────────
+---
 
-Python
-C
-C++
-JavaScript
-TypeScript
-HTML / CSS
+## If our questions overlap
 
+Bring me a difficult system, an unfinished idea, or a problem that lives awkwardly between software and people.
 
-ENGINEERING
-────────────────────────────────────────────
+<p align="center">
+  <a href="mailto:ajinkyamagarphys@gmail.com">write a letter</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/ajinkya-magar-6788b0251/">talk engineering</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/Ajinkya00Magar?tab=repositories">read the code</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.instagram.com/ajinkya00magar/">see outside the editor</a>
+</p>
 
-Artificial Intelligence
-Machine Learning
-Natural Language Processing
-Backend Development
-Full Stack Development
-Computer Networks
-Systems
-Data Structures & Algorithms
-</div>
-08 // DEVELOPMENT LOOP
-<div align="center">
-                  ┌──────────────┐
-                  │     IDEA     │
-                  └──────┬───────┘
-                         │
-                         ▼
-                  ┌──────────────┐
-                  │    BUILD     │
-                  └──────┬───────┘
-                         │
-                         ▼
-                  ┌──────────────┐
-                  │    BREAK     │
-                  └──────┬───────┘
-                         │
-                         ▼
-                  ┌──────────────┐
-                  │    DEBUG     │
-                  └──────┬───────┘
-                         │
-                         ▼
-                  ┌──────────────┐
-                  │  UNDERSTAND  │
-                  └──────┬───────┘
-                         │
-                         ▼
-                  ┌──────────────┐
-                  │   REBUILD    │
-                  └──────┬───────┘
-                         │
-                         ▼
-                  ┌──────────────┐
-                  │     SHIP     │
-                  └──────┬───────┘
-                         │
-                         └───────────────► REPEAT
-</div>
-09 // THINGS I'M FIGURING OUT
-<div align="center">
-╭──────────────────────────────────────────────────────────────╮
-│                                                              │
-│  → How should AI agents execute reliable work?              │
-│                                                              │
-│  → How do intelligent systems interact with infrastructure?  │
-│                                                              │
-│  → How far can software go before hardware becomes the       │
-│    bottleneck?                                               │
-│                                                              │
-│  → How do you turn an idea into something people actually    │
-│    want to use?                                              │
-│                                                              │
-│  → What happens when AI meets real engineering constraints?  │
-│                                                              │
-╰──────────────────────────────────────────────────────────────╯
-</div>
-10 // DEVELOPER TELEMETRY
-<div align="center">
+<br>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Ajinkya00Magar&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=050505&title_color=9d4edd&icon_color=c77dff&text_color=ffffff" />
+<p align="center"><samp>END OF ROLL 00 · STILL BECOMING · STILL BUILDING</samp></p>
+<p align="center"><sub>This README will change when I do.</sub></p>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajinkya00Magar&layout=compact&langs_count=8&hide_border=true&bg_color=050505&title_color=9d4edd&text_color=ffffff" />
+---
 
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=Ajinkya00Magar&theme=midnight-purple&hide_border=true&background=050505&ring=9d4edd&fire=c77dff&currStreakLabel=9d4edd" />
-
-</div>
-11 // CONTRIBUTION MATRIX
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ajinkya00Magar&bg_color=050505&color=9d4edd&line=9d4edd&point=c77dff&area=true&hide_border=true&custom_title=AJ%27S%20CONTRIBUTION%20MATRIX" />
-
-</div>
-12 // ACHIEVEMENTS
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ajinkya00Magar&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=6" />
-
-</div>
-13 // SYSTEM STATUS
-<div align="center">
-╭──────────────────────────────────────────────────────╮
-│                                                      │
-│  STUDENT        ████████████████████░   95%          │
-│  BUILDER        █████████████████░░░░   83%          │
-│  DEBUGGER       ████████████████████░   96%          │
-│  CURIOSITY      █████████████████████  100%          │
-│  SLEEP          █████░░░░░░░░░░░░░░░   24%          │
-│                                                      │
-╰──────────────────────────────────────────────────────╯
-</div>
-14 // CLASSIFIED
-<details> <summary>🕷️ OPEN CLASSIFIED FILE</summary> <br> <div align="center">
-
-<img src="./assets/spiderman.png" width="60%" alt="" />
-
-<br><br>
-
-still here.
-still building.
-</div> </details>
-15 // CONNECTION TERMINAL
-<div align="center">
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│                    ESTABLISH CONNECTION                      │
-│                                                              │
-│       [ GITHUB ]       [ LINKEDIN ]       [ EMAIL ]         │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-<br> <a href="https://github.com/Ajinkya00Magar"> <img src="https://img.shields.io/badge/GITHUB-050505?style=for-the-badge&logo=github&logoColor=9d4edd"/> </a> <a href="https://www.linkedin.com/in/ajinkya-magar-6788b0251/"> <img src="https://img.shields.io/badge/LINKEDIN-050505?style=for-the-badge&logo=linkedin&logoColor=9d4edd"/> </a> <a href="https://www.instagram.com/ajinkya00magar/"> <img src="https://img.shields.io/badge/INSTAGRAM-050505?style=for-the-badge&logo=instagram&logoColor=9d4edd"/> </a> <a href="mailto:ajinkyamagarphys@gmail.com"> <img src="https://img.shields.io/badge/EMAIL-050505?style=for-the-badge&logo=gmail&logoColor=9d4edd"/> </a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=Ajinkya00Magar&label=PROFILE%20VISITORS&color=9d4edd&style=for-the-badge" />
-
-</div>
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&pause=2500&color=9D4EDD&center=true&vCenter=true&width=850&height=50&lines=BUILD+SOMETHING.;BREAK+SOMETHING.;UNDERSTAND+WHY.;BUILD+IT+BETTER." />
-
-<br><br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,30:10051a,60:24103d,100:050505&height=150&section=footer" />
-
-</div> ```
-
-Make sure the image is located exactly here in the same repository:
-
-assets/spiderman.png
+<sub>Visual notes: the Shoya Ishida and Spider-Man artwork were supplied for this profile. Characters and original artwork belong to their respective rights holders and appear here as personal, non-commercial visual references.</sub>
