@@ -1,133 +1,420 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0533,100:0d0d0d&height=320&section=header&text=Ajinkya%20Magar&fontSize=70&fontColor=9d4edd&animation=twinkling&fontAlignY=40&desc=AI%20%7C%20Full%20Stack%20%7C%20DSA%20%7C%20Building%20Cool%20Stuff&descAlignY=58&descColor=c77dff&descSize=22&stroke=9d4edd&strokeWidth=1"/>
+# ⚡ AJINKYA MAGAR
 
-</div>
-<div align="center">
-    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=16&pause=1000&color=9D4EDD&center=true&vCenter=true&width=650&height=50&lines=Second+Year+BTech+%40+MIT+AOE+%F0%9F%8F%AB;Passionate+about+AI+%26+Machine+Learning+%F0%9F%A7%A0;Full+Stack+Dev+in+the+making+%F0%9F%9A%80;DSA+Grinder+%7C+Problem+Solver+%F0%9F%94%A5;Building+cool+stuff+that+matters+%E2%9C%A8;Debugging+life%2C+one+commit+at+a+time+%F0%9F%92%80)](https://github.com/Ajinkya00Magar)
+### Computer Engineering Student · AI/ML · Software Engineering · Systems
+
+<a href="https://github.com/Ajinkya00Magar">
+  <img src="https://img.shields.io/github/followers/Ajinkya00Magar?label=Followers&style=for-the-badge&color=9d4edd&labelColor=0d0d0d"/>
+</a>
+<a href="https://github.com/Ajinkya00Magar?tab=repositories">
+  <img src="https://img.shields.io/badge/Repositories-11-9d4edd?style=for-the-badge&labelColor=0d0d0d"/>
+</a>
+<a href="https://github.com/Ajinkya00Magar">
+  <img src="https://komarev.com/ghpvc/?username=Ajinkya00Magar&style=for-the-badge&color=9d4edd&label=PROFILE+VIEWS"/>
+</a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,45:160b2d,75:3c1361,100:050505&height=180&section=header&text=BUILDING%20SYSTEMS%20THAT%20THINK&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=55"/>
 
 </div>
 
 ---
 
-<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+<div align="center">
 
-### 👤 Who Am I?
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=9D4EDD&center=true&vCenter=true&width=850&height=50&lines=Computer+Engineering+Student+%40+MIT+AOE;Exploring+AI%2FML+%7C+NLP+%7C+Backend+%7C+Systems;Building+AI-powered+products+and+developer+tools;Learning+by+building%2C+breaking%2C+and+rebuilding;Currently+turning+ideas+into+working+systems+%E2%9A%A1"/>
+
+</div>
+
+---
+
+## 🧬 `whoami`
 
 ```python
-ajinkya = {
-    "name"      : "Ajinkya Magar",
-    "alias"     : "AJ",
-    "college"   : "MIT Academy of Engineering, Alandi",
-    "year"      : "Second Year BTech",
-    "location"  : "Maharashtra, India",
-    "passion"   : ["AI", "Full Stack", "Building cool stuff"],
-    "currently" : "Turning time into code ☕",
-    "vibe"      : "Final Boss Loading... ▓▓▓▓▓░░ 80%"
-}
+class AjinkyaMagar:
+
+    name = "Ajinkya Prabhakar Magar"
+    alias = "AJ"
+
+    education = {
+        "degree": "B.Tech Computer Engineering",
+        "college": "MIT Academy of Engineering, Alandi",
+        "batch": "2025 — 2029"
+    }
+
+    interests = [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "NLP",
+        "Software Engineering",
+        "Backend Development",
+        "Full-Stack Development",
+        "Data Structures & Algorithms",
+        "Networks & Systems"
+    ]
+
+    philosophy = "Build → Break → Understand → Rebuild"
+
+    currently = "Building and experimenting with real systems."
 ```
 
-<br clear="right"/>
+I'm a **Computer Engineering student at MIT Academy of Engineering, Alandi**, currently exploring the intersection of **AI, software engineering, backend systems, networks, and intelligent applications**.
+
+I learn primarily by building.
+
+Instead of stopping at tutorials, I like taking an idea, turning it into a system, discovering where it breaks, and then understanding *why* it broke.
 
 ---
 
-### ⚡ Tech Stack
+## 🧠 What I'm Interested In
 
-<div align="center">
+<table>
+<tr>
+<td width="50%">
 
-![Python](https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=9d4edd)
-![C](https://img.shields.io/badge/C-0d0d0d?style=for-the-badge&logo=c&logoColor=9d4edd)
-![HTML5](https://img.shields.io/badge/HTML5-0d0d0d?style=for-the-badge&logo=html5&logoColor=9d4edd)
-![CSS3](https://img.shields.io/badge/CSS3-0d0d0d?style=for-the-badge&logo=css3&logoColor=9d4edd)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d0d0d?style=for-the-badge&logo=javascript&logoColor=9d4edd)
-![FastAPI](https://img.shields.io/badge/FastAPI-0d0d0d?style=for-the-badge&logo=fastapi&logoColor=9d4edd)
-![Git](https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git&logoColor=9d4edd)
-![VS Code](https://img.shields.io/badge/VSCode-0d0d0d?style=for-the-badge&logo=visual-studio-code&logoColor=9d4edd)
-![Power BI](https://img.shields.io/badge/PowerBI-0d0d0d?style=for-the-badge&logo=powerbi&logoColor=9d4edd)
-![Linux](https://img.shields.io/badge/Linux-0d0d0d?style=for-the-badge&logo=linux&logoColor=9d4edd)
+### 🤖 Artificial Intelligence
 
-</div>
+* AI / ML
+* NLP
+* LLM-powered applications
+* AI agents & orchestration
+* Sentiment analysis
+* Intelligent automation
+* Predictive systems
 
----
+</td>
+<td width="50%">
 
-### 🚀 Featured Projects
+### ⚙️ Software Engineering
 
-<div align="center">
+* Backend architecture
+* Full-stack applications
+* REST APIs
+* System design
+* Developer tooling
+* Distributed workflows
+* Application architecture
 
-| Project | Description | Stack |
-|--------|-------------|-------|
-| 🧠 **Sentiment Analyzer** | NLP pipeline with BERT + Gemini AI for real-time sentiment detection | `FastAPI` `BERT` `Gemini` `Python` |
-| 📊 **Data Viz Dashboard** | Power BI-style analytics dashboard from Superstore dataset | `Python` `Pandas` `Matplotlib` |
-| 💡 **Seat Belt Alarm System** | Hardware safety system project with logic design | `Digital Electronics` `C` |
-| 🌐 **Personal Website** | Custom portfolio site built as a gift | `HTML` `CSS` `JS` |
+</td>
+</tr>
 
-</div>
+<tr>
+<td>
 
----
+### 🌐 Systems & Networks
 
-### 📊 GitHub Stats
+* Computer networks
+* Network monitoring
+* Secure systems
+* Predictive network operations
+* Network automation
+* Systems programming
 
-<div align="center">
+</td>
+<td>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ajinkya00Magar&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d0d&title_color=9d4edd&icon_color=c77dff&text_color=ffffff"/>
+### 🧩 Problem Solving
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajinkya00Magar&layout=compact&langs_count=7&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=9d4edd&text_color=ffffff"/>
+* Data Structures & Algorithms
+* C / C++
+* Python
+* Debugging
+* Logical problem solving
+* Building from first principles
 
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Ajinkya00Magar&theme=midnight-purple&hide_border=true&background=0d0d0d&ring=9d4edd&fire=c77dff&currStreakLabel=9d4edd"/>
-
-</div>
-
----
-
-### 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ajinkya00Magar&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=4"/>
-
-</div>
-
----
-
-### 📈 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ajinkya00Magar&bg_color=0d0d0d&color=9d4edd&line=9d4edd&point=c77dff&area=true&hide_border=true"/>
-
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
-### 📡 Connect With Me
+# 🚀 What I'm Building
 
-<div align="center">
+## 🧠 Synapse — AI Orchestration System
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=9d4edd)](https://www.linkedin.com/in/ajinkya-magar-6788b0251/)
-[![Instagram](https://img.shields.io/badge/Instagram-0d0d0d?style=for-the-badge&logo=instagram&logoColor=9d4edd)](https://www.instagram.com/ajinkya00magar/)
-[![Gmail](https://img.shields.io/badge/Gmail-0d0d0d?style=for-the-badge&logo=gmail&logoColor=9d4edd)](mailto:ajinkyamagarphys@gmail.com)
+> An orchestration layer designed around structured actions, tasks and execution plans.
 
-</div>
+**Focus:** AI agents · orchestration · execution pipelines · backend architecture
 
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Ajinkya00Magar&label=PROFILE+VIEWS&color=9d4edd&style=for-the-badge"/>
-
-```
-                                            ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-                                                   AJ — The Final Boss
-                                                "Code. Commit. Conquer. Repeat."
-                                                     [ loading... ▓▓▓▓▓░░░ ]
-                                            ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+```text
+User Intent
+     ↓
+   Synapse
+     ↓
+Action / Task Planning
+     ↓
+Execution Plan
+     ↓
+   Executor
+     ↓
+Real-world Action
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0533,100:0d0d0d&height=100&section=footer"/>
+**Stack**
+
+`Python` `Pydantic` `Backend Architecture` `AI Systems`
+
+---
+
+## 📡 VIKRAM — Predictive Network Operations Copilot
+
+> Air-gapped predictive copilot for secure MPLS operations.
+
+A systems-oriented project exploring how intelligent software can assist with **network operations and predictive analysis** while operating in security-sensitive environments.
+
+**Focus**
+
+`Networks` `AI` `Predictive Systems` `Secure Infrastructure`
+
+---
+
+## 🎓 Campus Buddy
+
+> An AI-powered student-focused platform built around campus interaction and intelligent assistance.
+
+The project explores how AI can be integrated into a practical student platform rather than existing as an isolated chatbot.
+
+**Stack**
+
+`TypeScript` `AI` `Web Development`
+
+---
+
+## 🗺️ Flowmap
+
+> A TypeScript-based project focused on visualizing and working with flows.
+
+**Stack**
+
+`TypeScript` `Web Development` `Data Visualization`
+
+---
+
+## 🧠 Sentiment Analysis Model
+
+An NLP-focused project exploring sentiment classification and AI-assisted analysis.
+
+**Stack**
+
+`Python` `NLP` `Machine Learning`
+
+---
+
+## 🛡️ MINDGUARD
+
+> Mental-health chatbot project exploring conversational AI.
+
+**Stack**
+
+`Python` `AI` `NLP`
+
+---
+
+# 🧪 Other Projects
+
+| Project              | What it explores                          | Primary Tech |
+| -------------------- | ----------------------------------------- | ------------ |
+| **ARIA**             | Intelligent software / AI experimentation | TypeScript   |
+| **Shortlyst**        | Web application development               | JavaScript   |
+| **Ajinkya Opus 4.8** | Web / AI experimentation                  | HTML         |
+| **CT**               | Web development                           | HTML         |
+
+> My repositories are intentionally diverse — some are polished applications, while others are experiments used to understand a technology or architectural idea.
+
+---
+
+# 🛠️ Tech Arsenal
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts,html,css&theme=dark"/>
+
+### Backend / Frameworks
+
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express&theme=dark"/>
+
+### AI / Data
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark"/>
+
+### Tools & Environment
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+`Python` · `C` · `C++` · `JavaScript` · `TypeScript`
+`FastAPI` · `Node.js` · `REST APIs`
+`AI/ML` · `NLP` · `LLMs` · `Pandas`
+`Git` · `GitHub` · `Linux` · `VS Code`
+
+</div>
+
+---
+
+# 🧭 Current Learning Path
+
+```text
+                    ┌─────────────────────┐
+                    │   COMPUTER SCIENCE  │
+                    └──────────┬──────────┘
+                               │
+          ┌────────────────────┼────────────────────┐
+          ↓                    ↓                    ↓
+       AI / ML              SYSTEMS              SOFTWARE
+          │                    │                    │
+     ┌────┴────┐         ┌─────┴─────┐       ┌────┴────┐
+     │         │         │           │       │         │
+    NLP      LLMs     Networks     Backend   APIs    Full Stack
+     │         │         │           │       │         │
+     └─────────┴─────────┴───────────┴───────┴─────────┘
+                               │
+                               ↓
+                         BUILD REAL THINGS
+```
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Ajinkya00Magar&show_icons=true&hide_border=true&bg_color=050505&title_color=9d4edd&icon_color=c77dff&text_color=ffffff&include_all_commits=true&count_private=true"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajinkya00Magar&layout=compact&langs_count=8&hide_border=true&bg_color=050505&title_color=9d4edd&text_color=ffffff"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="75%" src="https://streak-stats.demolab.com?user=Ajinkya00Magar&theme=midnight-purple&hide_border=true&background=050505&ring=9d4edd&fire=c77dff&currStreakLabel=9d4edd"/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ajinkya00Magar&bg_color=050505&color=9d4edd&line=9d4edd&point=c77dff&area=true&hide_border=true&custom_title=AJ%27s%20Contribution%20Graph"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Ajinkya00Magar&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=6"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Ajinkya00Magar/Ajinkya00Magar/output/github-contribution-grid-snake-purple.svg" alt="GitHub Contribution Snake"/>
+
+</div>
+
+---
+
+# 💭 Developer Philosophy
+
+<div align="center">
+
+### I don't want to just use technology.
+
+### I want to understand how it works.
+
+<br>
+
+```text
+        IDEA
+         │
+         ▼
+      BUILD IT
+         │
+         ▼
+      BREAK IT
+         │
+         ▼
+   UNDERSTAND WHY
+         │
+         ▼
+     REBUILD IT
+         │
+         ▼
+       SHIP IT
+```
+
+</div>
+
+---
+
+# 🌌 Beyond the Code
+
+I'm particularly interested in projects where **software meets real-world constraints**.
+
+That means I'm not only interested in making something work.
+
+I'm interested in questions like:
+
+* How does the architecture behave under failure?
+* Can the system operate with limited connectivity?
+* How should AI decisions be structured and validated?
+* How can complex workflows become simpler?
+* How can networks become more observable?
+* How can an idea become an actual usable product?
+
+That's the direction I'm exploring through my projects.
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/ajinkya-magar-6788b0251/">
+<img src="https://img.shields.io/badge/LinkedIn-9d4edd?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/ajinkya00magar/">
+<img src="https://img.shields.io/badge/Instagram-9d4edd?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:ajinkyamagarphys@gmail.com">
+<img src="https://img.shields.io/badge/Email-9d4edd?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Ajinkya00Magar">
+<img src="https://img.shields.io/badge/GitHub-9d4edd?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ Building today. Understanding tomorrow.
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,45:160b2d,75:3c1361,100:050505&height=120&section=footer"/>
 
 </div>
