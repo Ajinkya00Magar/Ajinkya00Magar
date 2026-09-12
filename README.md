@@ -36,17 +36,12 @@
 
 ### 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ajinkya00Magar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Ajinkya's GitHub Stats" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ajinkya00Magar&theme=tokyonight&hide_border=true&background=0D1117" alt="Ajinkya's GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajinkya00Magar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</p>
+
 
 ---
 
