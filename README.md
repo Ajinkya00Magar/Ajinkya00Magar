@@ -1,148 +1,72 @@
-<!--
-This profile is intentionally a contact sheet, not a dashboard.
-No generated statistics. No streaks. No rankings. A person is not telemetry.
--->
+<h1 align="center">Hi there, I'm Ajinkya Magar (AJ) 👋</h1>
+
+<h3 align="center">Computer Engineering Student | Building Systems That Listen Before They Act</h3>
 
 <p align="center">
-  <img src="./assets/contact-sheet.svg" width="100%" alt="Ajinkya Magar — a profile in two exposures: repair and responsibility" />
+  <img src="https://komarev.com/ghpvc/?username=Ajinkya00Magar&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <samp>COMPUTER ENGINEERING · MAHARASHTRA, INDIA · BUILDING SYSTEMS THAT LISTEN BEFORE THEY ACT</samp>
+  <a href="https://github.com/Ajinkya00Magar">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Backend+Systems;AI+%26+Computer+Networks;I+turn+coffee+into+code;Breaking+things+to+learn" alt="Typing SVG" />
+  </a>
 </p>
 
-## Two exposures. One direction.
+---
 
-Most profiles begin with a toolbox. Mine begins with a tension:
+### ⚡ About Me
 
-> **Look inward long enough to repair what is broken. Look outward far enough to act when you can help.**
+- 🚀 I’m a Computer Engineering student at **MIT Academy of Engineering, Alandi**.
+- 🧠 I work where **AI, backend systems, computer networks, and useful products** overlap.
+- 💬 Ask me about **Python, C/C++, TypeScript, and Networking**.
+- 📫 How to reach me: [**ajinkyamagarphys@gmail.com**](mailto:ajinkyamagarphys@gmail.com)
+- ⚡ Fun fact: *I want to know what happens after the demo. When things fail, I stay for the explanation.*
 
-I keep those as coordinates—not because I have mastered either of them, but because they point toward the person and engineer I am trying to become.
+---
 
-<br>
+### 🛠️ Tech Stack & Skills
 
 <p align="center">
-  <img src="./assets/shoya-ishida.jpg" width="420" alt="Shoya Ishida looking upward beneath an open blue sky" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,c,cpp,ts,js,nodejs,linux,git,github,docker,bash&perline=12" />
+  </a>
 </p>
-<p align="center"><samp>FRAME 01 / A SKY THAT FINALLY HAS PEOPLE IN IT / REPAIR</samp></p>
-
-### `01 / REPAIR`
-
-**Shoya Ishida** stays with me not because he is flawless, but because he is unfinished. His story treats becoming better as active work: listen, return, face what is difficult, and learn how to meet people instead of disappearing from them.
-
-That translates into how I want to engineer:
-
-- understand before automating;
-- ask before assuming;
-- treat failure as information, not embarrassment;
-- rebuild without pretending the first version was enough.
-
-I am interested in intelligence, but even more interested in whether that intelligence can pay attention.
 
 ---
 
-## The person between the frames
-
-I am **Ajinkya Magar**—AJ to people who know me—a Computer Engineering student at **MIT Academy of Engineering, Alandi**.
-
-I work where **AI, backend systems, computer networks, and useful products** overlap. I learn by making an idea real, finding the place where reality disagrees with it, and staying for the explanation.
-
-I do not want to merely *know technologies*. I want to know what happens after the demo: when the network is isolated, the command is ambiguous, the user is overwhelmed, the data is untidy, or the system has to earn trust.
-
-> The polished screen is the last layer. I am usually curious about the layers that made it possible.
-
----
-
-## Questions with repositories attached
-
-<sub>Not a trophy shelf. These are questions I have tried to answer in code.</sub>
-
-### `01` Can a computer listen without asking the human to shrink their language?
-
-**[Synapse](https://github.com/Ajinkya00Magar/Synapse)** gives Windows hands-free voice control through English, Hindi, and Marathi. The interesting part is not the command—it is turning natural intent into a dependable action.
-
-### `02` Can a network reveal tomorrow's failure while there is still time to respond?
-
-**[VIKRAM](https://github.com/Ajinkya00Magar/VIKRAM)** is an air-gapped predictive copilot for secure MPLS and SD-WAN operations: local telemetry, anomaly detection, forecasting, simulation, and explanation without depending on the outside world.
-
-### `03` Can learning feel like a place you can navigate?
-
-**[FlowMap](https://github.com/Ajinkya00Magar/flowmap)** turns study paths, milestones, habits, and progress into an interactive learning map instead of another disconnected list of tasks.
-
-### `04` What would campus communication look like if context were built into the system?
-
-**[Campus Buddy](https://github.com/Ajinkya00Magar/Campus_Buddy)** brings real-time conversation, channels, notices, and role-aware access into one college space—organized around the community it actually serves.
-
-### `05` Can software respond more carefully when words carry weight?
-
-**[MindGuard](https://github.com/Ajinkya00Magar/mental-health-chatbot)** explores emotion detection, risk-aware responses, and mood trends as an emotional-support prototype—not as a replacement for professional care.
-
-<p align="right"><a href="https://github.com/Ajinkya00Magar?tab=repositories">the rest of the contact sheet →</a></p>
-
----
-
-## Working materials, not identity labels
-
-**Python** when the problem needs intelligence, language, data, or a fast route from thought to experiment.
-
-**TypeScript** when the system needs a dependable shape from interface to backend.
-
-**C and C++** when abstraction should move aside and let me see the machine.
-
-**Linux, Git, and computer networks** when I need to understand where software actually lives, moves, fails, and recovers.
-
-The tool changes. The loop does not:
+### 📊 GitHub Analytics
 
 <p align="center">
-  <samp>NOTICE → MODEL → BUILD → BREAK → UNDERSTAND → REBUILD → SHARE</samp>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ajinkya00Magar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Ajinkya's GitHub Stats" />
 </p>
-
-<br>
 
 <p align="center">
-  <img src="./assets/spider-man.jpg" width="420" alt="Spider-Man holding a camera against a collage of comic panels" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ajinkya00Magar&theme=tokyonight&hide_border=true&background=0D1117" alt="Ajinkya's GitHub Streak" />
 </p>
-<p align="center"><samp>FRAME 02 / CAMERA OUT / RESPONSIBILITY</samp></p>
-
-### `02 / RESPONSIBILITY`
-
-**Peter Parker, specifically**—not the spectacle of Spider-Man. The student carrying ordinary worries, a camera, too many responsibilities, and still making the next useful choice.
-
-That is the part I recognize: ability is not an identity by itself. What matters is where you point it. In engineering, responsibility means a feature is unfinished if it is clever but unusable, an AI system is unfinished if it cannot explain its limits, and a failure you can see becomes your next honest task.
-
-I want to build ambitious systems without losing sight of the person waiting on the other side of them.
-
----
-
-## Rules I keep in pencil
-
-1. **Listen long enough for the real problem to replace the obvious one.**
-2. **Make hidden systems legible.** Confusion grows in layers nobody can inspect.
-3. **Break prototypes early and promises rarely.**
-4. **Prefer useful over loud, reliable over impressive, and clear over clever.**
-5. **Leave room to revise yourself.** Better code and better people both require it.
-
----
-
-## If our questions overlap
-
-Bring me a difficult system, an unfinished idea, or a problem that lives awkwardly between software and people.
 
 <p align="center">
-  <a href="mailto:ajinkyamagarphys@gmail.com">write a letter</a>
-  &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/ajinkya-magar-6788b0251/">talk engineering</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/Ajinkya00Magar?tab=repositories">read the code</a>
-  &nbsp;·&nbsp;
-  <a href="https://www.instagram.com/ajinkya00magar/">see outside the editor</a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajinkya00Magar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </p>
-
-<br>
-
-<p align="center"><samp>END OF ROLL 00 · STILL BECOMING · STILL BUILDING</samp></p>
-<p align="center"><sub>This README will change when I do.</sub></p>
 
 ---
 
-<sub>Visual notes: the Shoya Ishida and Spider-Man artwork were supplied for this profile. Characters and original artwork belong to their respective rights holders and appear here as personal, non-commercial visual references.</sub>
+### 🚀 Top Projects
+
+| Project | Description |
+|---|---|
+| **[Synapse](https://github.com/Ajinkya00Magar/Synapse)** | Hands-free voice control system through English, Hindi, and Marathi. |
+| **[VIKRAM](https://github.com/Ajinkya00Magar/VIKRAM)** | Air-gapped predictive copilot for secure MPLS and SD-WAN operations. |
+| **[FlowMap](https://github.com/Ajinkya00Magar/flowmap)** | Interactive learning map turning study paths into a visual journey. |
+| **[Campus Buddy](https://github.com/Ajinkya00Magar/Campus_Buddy)** | Real-time conversation and notices for a college community. |
+| **[MindGuard](https://github.com/Ajinkya00Magar/mental-health-chatbot)** | Emotional-support prototype for emotion detection & risk-aware responses. |
+
+---
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ajinkya-magar-6788b0251/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/ajinkya00magar/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
