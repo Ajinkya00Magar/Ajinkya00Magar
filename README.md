@@ -1,6 +1,6 @@
-<h1 align="center">Hi there, I'm Ajinkya Magar (AJ) 👋</h1>
-
-<h3 align="center">Computer Engineering Student | Building Systems That Listen Before They Act</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=250&section=header&text=Ajinkya%20Magar%20(AJ)&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20Systems%20That%20Listen%20Before%20They%20Act&descAlignY=55&descAlign=50" alt="AJ's Banner" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ajinkya00Magar&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
