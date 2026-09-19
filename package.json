@@ -1,0 +1,21 @@
+{
+  "name": "ajinkya-profile-motion",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "animation:studio": "remotion studio animation/index.jsx --public-dir=assets",
+    "animation:compositions": "remotion compositions animation/index.jsx --public-dir=assets",
+    "animation:render": "node animation/render-all.mjs",
+    "animation:render:hero": "remotion render animation/index.jsx ProfileLoop assets/profile-loop.gif --codec=gif --every-nth-frame=3 --image-format=jpeg --jpeg-quality=82 --public-dir=assets --concurrency=2",
+    "animation:render:preview": "remotion render animation/index.jsx ProfileLoop assets/profile-loop-preview.gif --codec=gif --every-nth-frame=6 --image-format=jpeg --jpeg-quality=76 --scale=0.5 --public-dir=assets --concurrency=2"
+  },
+  "dependencies": {
+    "react": "19.3.0",
+    "react-dom": "19.3.0",
+    "remotion": "4.0.523"
+  },
+  "devDependencies": {
+    "@remotion/cli": "4.0.523"
+  }
+}

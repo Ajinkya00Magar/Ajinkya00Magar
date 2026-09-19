@@ -1,0 +1,37 @@
+@keyframes none {
+  from { opacity: 1; }
+  to { opacity: 1; }
+}
+
+:root {
+  color-scheme: dark;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  background: #030509;
+}
+
+.motion-root {
+  background: #030509;
+  color: #f7f4ec;
+  font-family: "Segoe UI", Arial, sans-serif;
+  overflow: hidden;
+}
+
+.motion-root::after {
+  position: absolute;
+  inset: 0;
+  border: 1px solid rgba(244, 241, 232, 0.22);
+  content: "";
+  pointer-events: none;
+}
+
+.mono {
+  font-family: Consolas, "Courier New", monospace;
+}

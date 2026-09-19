@@ -30,6 +30,30 @@ Editable source: ./animation
   <a href="./animation/README.md">animation source</a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/Ajinkya00Magar">
+    <img src="https://komarev.com/ghpvc/?username=Ajinkya00Magar&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Ajinkya00Magar?tab=followers">
+    <img src="https://img.shields.io/github/followers/Ajinkya00Magar?label=Followers&style=flat&color=0e75b6&logo=github" alt="Followers" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Ajinkya00Magar?tab=repositories">
+    <img src="https://img.shields.io/github/stars/Ajinkya00Magar?label=Stars&style=flat&color=0e75b6&logo=github" alt="Stars" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Ajinkya00Magar">
+    <img src="https://streak-stats.demolab.com/?user=Ajinkya00Magar&theme=tokyonight&hide_border=true&background=030509&ring=9de8f4&fire=ff7a86&currStreakLabel=9de8f4" alt="Ajinkya's GitHub Streak" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Ajinkya00Magar">
+    <img src="https://github-readme-stats-two-nu.vercel.app/api?username=Ajinkya00Magar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=030509&title_color=9de8f4&icon_color=ff7a86&text_color=a7b0b7" alt="Ajinkya's GitHub Stats" />
+  </a>
+</p>
+
 <details>
 <summary><sub>Read the profile as text · accessible / reduced-motion version</sub></summary>
 
@@ -54,5 +78,10 @@ I reach for **Python** for intelligence, language, data, and experiments; **Type
 `NOTICE → MODEL → BUILD → BREAK → UNDERSTAND → REBUILD → SHARE`
 
 My working rules: listen before assuming, make hidden systems legible, break prototypes early and promises rarely, prefer useful over loud, and leave room to revise.
+
+### Telemetry & activity
+
+- **Profile views**: ![Profile Views](https://komarev.com/ghpvc/?username=Ajinkya00Magar&label=Profile%20Views&color=0e75b6&style=flat)
+- **Active streak & contributions**: tracked live across repositories via [GitHub profile](https://github.com/Ajinkya00Magar).
 
 </details>
